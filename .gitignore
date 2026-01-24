@@ -2,3 +2,5 @@
 node_modules
 .tmp
 npm-debug.log
+file1.log
+IgnoredFloder/
